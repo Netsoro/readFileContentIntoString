@@ -1,0 +1,2 @@
+# readFileContentIntoString
+And suppresse &#xA;
